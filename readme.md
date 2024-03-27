@@ -1,5 +1,5 @@
 # kindle-clock
-
+https://gitee.com/xfangfang/clock
 #### 介绍
 
 支持横屏的时钟。区别于网上能搜到的其他的时钟特点是：
